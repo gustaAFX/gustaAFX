@@ -2,12 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Gustavo+%E2%80%94+AI+Backend+Developer;Python+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+LLMs;Big+Data+%C2%B7+Databricks+%C2%B7+MongoDB)](https://github.com/aphexrage)
 
-**AI Backend Developer @ Unilever** — APIs, dados em escala e produtos com **OpenAI / LLMs**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![GitHub followers](https://img.shields.io/github/followers/aphexrage?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/aphexrage?tab=followers)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aphexrage" alt="Visitantes" />
+**AI Backend Developer @ Unilever** APIs, dados em escala e produtos com **OpenAI / LLMs**!
 
 </div>
 
