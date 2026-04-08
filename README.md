@@ -4,8 +4,6 @@
 
 **AI Backend Developer @ Unilever** — APIs, dados em escala e produtos com **OpenAI / LLMs**.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aphexragedev@gmail.com)
-<!-- Troque SEU-USUARIO pelo slug do seu perfil (ex.: linkedin.com/in/gustavo-silva) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
 [![GitHub followers](https://img.shields.io/github/followers/aphexrage?style=for-the-badge&logo=github&label=Seguidores)](https://github.com/aphexrage?tab=followers)
 
